@@ -1,0 +1,26 @@
+{
+  "files": {
+    "main.css": "/eightydays/static/css/main.42727136.chunk.css",
+    "main.js": "/eightydays/static/js/main.3587a484.chunk.js",
+    "main.js.map": "/eightydays/static/js/main.3587a484.chunk.js.map",
+    "runtime-main.js": "/eightydays/static/js/runtime-main.51767019.js",
+    "runtime-main.js.map": "/eightydays/static/js/runtime-main.51767019.js.map",
+    "static/js/2.8b904852.chunk.js": "/eightydays/static/js/2.8b904852.chunk.js",
+    "static/js/2.8b904852.chunk.js.map": "/eightydays/static/js/2.8b904852.chunk.js.map",
+    "index.html": "/eightydays/index.html",
+    "precache-manifest.177a0de2b078a192e903f8676bdd0077.js": "/eightydays/precache-manifest.177a0de2b078a192e903f8676bdd0077.js",
+    "service-worker.js": "/eightydays/service-worker.js",
+    "static/css/main.42727136.chunk.css.map": "/eightydays/static/css/main.42727136.chunk.css.map",
+    "static/js/2.8b904852.chunk.js.LICENSE.txt": "/eightydays/static/js/2.8b904852.chunk.js.LICENSE.txt",
+    "static/media/fb_icon.png": "/eightydays/static/media/fb_icon.c51e138a.png",
+    "static/media/ig_icon.png": "/eightydays/static/media/ig_icon.121b1f67.png",
+    "static/media/logo.png": "/eightydays/static/media/logo.ab2efe67.png",
+    "static/media/map_bg.png": "/eightydays/static/media/map_bg.6aa621d2.png"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.51767019.js",
+    "static/js/2.8b904852.chunk.js",
+    "static/css/main.42727136.chunk.css",
+    "static/js/main.3587a484.chunk.js"
+  ]
+}
